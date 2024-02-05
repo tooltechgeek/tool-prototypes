@@ -1,7 +1,7 @@
 # tool-prototypes
 Files for tool prototypes.
 
-Some of these are shown in my youtube channel
+Some of these are shown in my youtube channel @tooltechgeek
 
 -folding pliers: A complete multi-tool mockup, made by bolting flat plates.
 
