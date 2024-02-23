@@ -1,0 +1,4 @@
+This is a blade holder for the flat pack multi tool plier. It holds a mini utility blades avaiable at harbor freight or Amazon.
+The zip file contains scad and stl models.
+The part name and number for the blades is:
+Pittsburgh Mini Utility Knife Replacement Blade 10 Pack, 93789  
