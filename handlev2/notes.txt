@@ -1,0 +1,3 @@
+This is a handle that opens to store items or multi tool blades, with a holder for the tools via an adapter.
+The adapter used is sized for the tools of the wetols / mossy oak 12-in-1 multitool.
+  
