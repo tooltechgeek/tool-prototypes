@@ -1,4 +1,4 @@
-This is an erognomic pocket case with lid. 
+This is an ergonomic pocket case with lid. 
 
 The zip files contains the STL file as well as openSCAD assets if you want to modify it.
 
