@@ -1,1 +1,1 @@
-Stl ad SCAD files to make a fidget as shoen in the @ToolTechGeek youtube channel.
+Stl and SCAD files to make a fidget as shown in the @ToolTechGeek youtube channel.
