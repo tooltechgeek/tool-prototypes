@@ -1,1 +1,1 @@
-Holds 1/" bitsfor Roxon Flex
+Holds 1/4" bits for Roxon Flex plier tool
